@@ -15,3 +15,9 @@ I'm conciliating this knowledge with cyber security path. Bringing the codes too
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg?w=740&t=st=1671502118~exp=1671502718~hmac=173afdcd52ee67ce1af7f7b0c5d7fb6f8d33096cf40cc6412aff363d9af431e5">
 </div>
+
+##
+
+<div> 
+ <a href="https://www.linkedin.com/in/edivan-honorato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
